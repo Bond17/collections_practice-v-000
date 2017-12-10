@@ -28,3 +28,7 @@ element[2]="$"
 element
 end
 end
+
+def find_a (array)
+
+end
