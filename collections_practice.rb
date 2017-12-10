@@ -36,6 +36,7 @@ a_words = []
     a_words<<word
   end
 end
+a_words
 end
 
 def sum_array (array)
