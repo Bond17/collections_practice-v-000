@@ -10,10 +10,10 @@ def sort_array_char_count (array)
 array.sort_by {|word| word.length}
 end
 
-def swap_elements (array, index, destination_index)
-a= array[index]
-b= array[destination_index]
-array[index]=b
-array[destination_index]=a
+def swap_elements (array)
+a= array[1]
+b= array[2]
+array[1]=b
+array[2]=a
 array
 end
