@@ -49,5 +49,6 @@ array.each_with_index do |word, index|
 if index != 2
 word << "s"
 end
+word
 end
 end
