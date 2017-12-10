@@ -16,8 +16,4 @@ b= array[destination_index]
 array[index]=b
 array[destination_index]=a
 array
-
-
-end
-
 end
