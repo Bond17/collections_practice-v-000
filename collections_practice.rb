@@ -23,5 +23,7 @@ array.reverse
 end
 
 def kesha_maker (array)
+array = array.collect do |element|
 
+end
 end
