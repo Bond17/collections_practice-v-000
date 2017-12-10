@@ -30,7 +30,10 @@ end
 end
 
 def find_a (array)
+a_words = []
+array.each do |word|
 
+end
 end
 
 def sum_array (array)
